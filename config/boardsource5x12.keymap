@@ -26,7 +26,7 @@
                 &kp esc        &kp q         &kp w          &kp e          &kp r          &kp t         &kp y        &kp u        &kp i          &kp o          &kp p         &kp bspc
                 &kp esc        &kp a         &am lctl s     &am lalt d     &as lshft f    &kp g         &kp h        &as rshift j &am ralt k     &am rctl l     &kp semi      &mo 1
                 &kp lshft      &kp z         &kp x          &kp c          &kp v          &kp b         &kp n        &kp m        &kp comma      &kp dot        &kp fslh      &mo MOUSE
-                &kp            &kp lctrl     &kp lalt       &kp lgui       &as space 1    &kp tab       &kp enter    &as bspc 2    &kp            &kp            &kp           &kp DEL 
+                &kp            &kp lctrl     &kp lalt       &kp lgui       &kp space      &kp tab       &kp enter    &kp bspc     &kp            &kp            &kp           &kp DEL 
                 &kp            &kp           &kp            &kp            &kp            &kp           &kp          &kp          &kp            &kp            &kp           &kp 
             >;
         };
