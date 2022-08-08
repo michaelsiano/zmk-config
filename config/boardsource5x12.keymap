@@ -24,11 +24,11 @@
 
 
             bindings = <
-                &kp esc        &kp q         &kp w          &kp e          &kp r          &kp t         &kp y        &kp u        &kp i          &kp o          &kp p         &kp bspc
-                &kp esc        &kp a         &kp s          &kp d          &kp f          &kp g         &kp h        &kp j        &kp k          &kp l          &kp semi      &none
-                &kp lshft      &kp z         &kp x          &kp c          &kp v          &kp b         &kp n        &kp m        &kp comma      &kp dot        &kp fslh      &none
-                &none          &kp lctrl     &kp lalt       &kp lgui       &kp space      &kp tab       &kp enter    &kp bspc     &none          &none          &none         &kp DEL 
-                &none          &none         &none          &none          &none          &none         &none        &none        &none          &none          &none         &none
+                &kp ESC    &kp N1       &kp N2      &kp N3   &kp N4     &kp N5      &kp N6      &kp N7  &kp N8      &kp N9      &kp N0      &kp BSPC
+                &kp TAB    &kp Q        &kp W       &kp E    &kp R      &kp T       &kp Y       &kp U   &kp I       &kp O       &kp P       &kp BSLH
+                &kp LSHFT  &kp A        &kp S       &kp D    &kp F      &kp G       &kp H       &kp J   &kp K       &kp L       &kp SEMI    &kp SQT
+                &kp LCTRL  &kp Z        &kp X       &kp C    &kp V      &kp B       &kp N       &kp M   &kp COMMA   &kp DOT     &kp FSLH    &kp RET
+                &mo 3      &kp LCTRL    &kp LALT    &kp LGUI &mo 1      &kp SPACE   &kp SPACE   &mo 2   &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT 
             >;
         };
 
