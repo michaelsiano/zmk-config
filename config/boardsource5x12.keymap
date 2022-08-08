@@ -25,8 +25,8 @@
 
             bindings = <
                 &kp esc        &kp q         &kp w          &kp e          &kp r          &kp t         &kp y        &kp u        &kp i          &kp o          &kp p         &kp bspc
-                &kp esc        &kp a         &kp s          &kp d          &kp f          &kp g         &kp h        &kp j        &kp k          &kp l          &kp semi      &mo 1
-                &kp lshft      &kp z         &kp x          &kp c          &kp v          &kp b         &kp n        &kp m        &kp comma      &kp dot        &kp fslh      &mo MOUSE
+                &kp esc        &kp a         &kp s          &kp d          &kp f          &kp g         &kp h        &kp j        &kp k          &kp l          &kp semi      &none
+                &kp lshft      &kp z         &kp x          &kp c          &kp v          &kp b         &kp n        &kp m        &kp comma      &kp dot        &kp fslh      &none
                 &none          &kp lctrl     &kp lalt       &kp lgui       &kp space      &kp tab       &kp enter    &kp bspc     &none          &none          &none         &kp DEL 
                 &none          &none         &none          &none          &none          &none         &none        &none        &none          &none          &none         &none
             >;
