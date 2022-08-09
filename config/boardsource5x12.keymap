@@ -13,7 +13,7 @@
 #define symbol_layer 1
 #define number_layer 2
 #define blutooth_layer 3
-
+#define media_layer 4
 
 / {
     behaviors {
